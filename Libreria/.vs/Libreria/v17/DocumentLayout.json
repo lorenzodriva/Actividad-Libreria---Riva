@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|c:\\users\\lorenzo\\source\\repos\\libreria\\libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|solutionrelative:libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|c:\\users\\lorenzo\\source\\repos\\libreria\\libreria\\class\\lineapedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|solutionrelative:libreria\\class\\lineapedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|c:\\users\\lorenzo\\source\\repos\\libreria\\libreria\\class\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|solutionrelative:libreria\\class\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|c:\\users\\lorenzo\\source\\repos\\libreria\\libreria\\enums\\rubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|solutionrelative:libreria\\enums\\rubro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|c:\\users\\lorenzo\\source\\repos\\libreria\\libreria\\class\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|solutionrelative:libreria\\class\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|c:\\users\\lorenzo\\source\\repos\\libreria\\libreria\\class\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64E3D69-42D0-4F82-A03F-F1D707439F76}|Libreria\\Libreria.csproj|solutionrelative:libreria\\class\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LineaPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\class\\LineaPedido.cs",
+              "RelativeDocumentMoniker": "Libreria\\class\\LineaPedido.cs",
+              "ToolTip": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\class\\LineaPedido.cs",
+              "RelativeToolTip": "Libreria\\class\\LineaPedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:32:15.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\class\\Tarjeta.cs",
+              "RelativeDocumentMoniker": "Libreria\\class\\Tarjeta.cs",
+              "ToolTip": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\class\\Tarjeta.cs",
+              "RelativeToolTip": "Libreria\\class\\Tarjeta.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:08:04.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rubro.cs",
+              "DocumentMoniker": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\enums\\Rubro.cs",
+              "RelativeDocumentMoniker": "Libreria\\enums\\Rubro.cs",
+              "ToolTip": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\enums\\Rubro.cs",
+              "RelativeToolTip": "Libreria\\enums\\Rubro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:06:09.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\class\\Libro.cs",
+              "RelativeDocumentMoniker": "Libreria\\class\\Libro.cs",
+              "ToolTip": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\class\\Libro.cs",
+              "RelativeToolTip": "Libreria\\class\\Libro.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:01:07.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\class\\Cliente.cs",
+              "RelativeDocumentMoniker": "Libreria\\class\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\class\\Cliente.cs",
+              "RelativeToolTip": "Libreria\\class\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:44:23.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\Program.cs",
+              "RelativeDocumentMoniker": "Libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\Lorenzo\\source\\repos\\Libreria\\Libreria\\Program.cs",
+              "RelativeToolTip": "Libreria\\Program.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAcwKgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:32:37.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

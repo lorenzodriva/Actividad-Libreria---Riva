@@ -1,0 +1,14 @@
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\obj\Debug\net8.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\obj\Debug\net8.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\obj\Debug\net8.0\Libreria.AssemblyInfo.cs
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\obj\Debug\net8.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\bin\Debug\net8.0\Libreria.exe
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\bin\Debug\net8.0\Libreria.deps.json
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\bin\Debug\net8.0\Libreria.runtimeconfig.json
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\bin\Debug\net8.0\Libreria.dll
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\bin\Debug\net8.0\Libreria.pdb
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\obj\Debug\net8.0\Libreria.dll
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\obj\Debug\net8.0\refint\Libreria.dll
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\obj\Debug\net8.0\Libreria.pdb
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\obj\Debug\net8.0\Libreria.genruntimeconfig.cache
+C:\Users\Lorenzo\source\repos\Libreria\Libreria\obj\Debug\net8.0\ref\Libreria.dll
